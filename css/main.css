@@ -1,0 +1,21 @@
+#documentContent {
+    padding-top: 0;
+    background-color: #fff;
+}
+
+.button-options {
+    padding-top: 15px;
+}
+
+.navbar .navbar-brand {
+    color: #777;
+    font-weight: normal;
+}
+
+.four-up-chart-section {
+    border: 1px solid;
+}
+
+.chart {
+    padding-top: 20px;
+}
